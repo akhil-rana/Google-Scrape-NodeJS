@@ -1,7 +1,7 @@
 # google-scrape-NodeJS
 A really simple NodeJS program to scrape search results from google.com and return them in JSON format using Puppeteer and Cheerio.
 
-Steps:
+## Steps:
 1. Run `npm install`
 2. Change the value of var `searchKey` to your requirement.
 3. Change the value of `numberOfResuls` to your requirement but the actual number may vary close to this.
